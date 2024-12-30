@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asharoowiy
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on CSS and HTML projects
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning the different courses in CS50
+- 💞️ I’m looking to collaborate on python related projects
 - 📫 You can reach me via email(rafiusoliu2002@gmail.com) or twitter(@asharoowiy)
 
 <!---
